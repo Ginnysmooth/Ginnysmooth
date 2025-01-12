@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning pyhton and machine learning.
 - 💞️ I’m looking to collaborate on open-source projects.
 - 📫 How to reach me:1584536504@qq.com/g20672060@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: pop lover;psycology;libertarian;founded a company at the age of 20.
+- ⚡ Fun fact: gap year for 9 months;liberal arts students enrolled in medicine.
 
 <!---
 Ginnysmooth/Ginnysmooth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
